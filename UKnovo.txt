@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:-1,UK: 4Seven
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16125
+#EXTINF:-1,UK: 5 Select
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16131
+#EXTINF:-1,UK: 5 Star
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16172
+#EXTINF:-1,UK: AMC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16178
+#EXTINF:-1,UK: Animal Planet
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16277
+#EXTINF:-1,UK: BBC 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16133
+#EXTINF:-1,UK: BBC 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16135
+#EXTINF:-1,UK: BBC 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16137
+#EXTINF:-1,UK: BBC CBeebies
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16204
+#EXTINF:-1,UK: BBC News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104180
+#EXTINF:-1,UK: BBC World News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16301
+#EXTINF:-1,UK: Blaze
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16271
+#EXTINF:-1,UK: Boomerang TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16195
+#EXTINF:-1,UK: Cartoonito
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16203
+#EXTINF:-1,UK: CBS Justice
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16191
+#EXTINF:-1,UK: Channel 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104009
+#EXTINF:-1,UK: Channel 5
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16118
+#EXTINF:-1,UK: Chelsea TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16246
+#EXTINF:-1,UK: Comedy Central
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104188
+#EXTINF:-1,UK: Comedy Central Extra
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104187
+#EXTINF:-1,UK: Discovery Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104193
+#EXTINF:-1,UK: Discovery History
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16289
+#EXTINF:-1,UK: Discovery Science
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16284
+#EXTINF:-1,UK: Discovery Turbo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16285
+#EXTINF:-1,UK: E4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16126
+#EXTINF:-1,UK: Euronews
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16303
+#EXTINF:-1,UK: Film 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104155
+#EXTINF:-1,UK: Home And Health
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104161
+#EXTINF:-1,UK: ITV 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104026
+#EXTINF:-1,UK: ITV 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104028
+#EXTINF:-1,UK: ITV 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16111
+#EXTINF:-1,UK: ITV 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/35156
+#EXTINF:-1,UK: ITV BE
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16115
+#EXTINF:-1,UK: LifeTime
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16270
+#EXTINF:-1,UK: More 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16128
+#EXTINF:-1,UK: National Geographic
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16280
+#EXTINF:-1,UK: Nat Geo Wild
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16281
+#EXTINF:-1,UK: Nick Jr
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16199
+#EXTINF:-1,UK: Quest
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16132
+#EXTINF:-1,UK: Really
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16182
+#EXTINF:-1,UK: Red Bull TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16249
+#EXTINF:-1,UK: SyFy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104238
+#EXTINF:-1,UK: Tiny Pop
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16205
+#EXTINF:-1,UK: Watch TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/16184
+#EXTINF:-1,IRE: RTE News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104055
+#EXTINF:-1,IRE: RTE One
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/104056
+
